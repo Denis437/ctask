@@ -1,0 +1,16 @@
+F:\Projects\CiSharpProjects\Task6_2\Task6_2\bin\Debug\net5.0\Task6_2.exe
+F:\Projects\CiSharpProjects\Task6_2\Task6_2\bin\Debug\net5.0\Task6_2.deps.json
+F:\Projects\CiSharpProjects\Task6_2\Task6_2\bin\Debug\net5.0\Task6_2.runtimeconfig.json
+F:\Projects\CiSharpProjects\Task6_2\Task6_2\bin\Debug\net5.0\Task6_2.runtimeconfig.dev.json
+F:\Projects\CiSharpProjects\Task6_2\Task6_2\bin\Debug\net5.0\Task6_2.dll
+F:\Projects\CiSharpProjects\Task6_2\Task6_2\bin\Debug\net5.0\ref\Task6_2.dll
+F:\Projects\CiSharpProjects\Task6_2\Task6_2\bin\Debug\net5.0\Task6_2.pdb
+F:\Projects\CiSharpProjects\Task6_2\Task6_2\obj\Debug\net5.0\Task6_2.csprojAssemblyReference.cache
+F:\Projects\CiSharpProjects\Task6_2\Task6_2\obj\Debug\net5.0\Task6_2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\CiSharpProjects\Task6_2\Task6_2\obj\Debug\net5.0\Task6_2.AssemblyInfoInputs.cache
+F:\Projects\CiSharpProjects\Task6_2\Task6_2\obj\Debug\net5.0\Task6_2.AssemblyInfo.cs
+F:\Projects\CiSharpProjects\Task6_2\Task6_2\obj\Debug\net5.0\Task6_2.csproj.CoreCompileInputs.cache
+F:\Projects\CiSharpProjects\Task6_2\Task6_2\obj\Debug\net5.0\Task6_2.dll
+F:\Projects\CiSharpProjects\Task6_2\Task6_2\obj\Debug\net5.0\ref\Task6_2.dll
+F:\Projects\CiSharpProjects\Task6_2\Task6_2\obj\Debug\net5.0\Task6_2.pdb
+F:\Projects\CiSharpProjects\Task6_2\Task6_2\obj\Debug\net5.0\Task6_2.genruntimeconfig.cache

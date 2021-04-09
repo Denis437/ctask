@@ -1,0 +1,11 @@
+C:\Users\eleme\Downloads\task8_1-2\InfoTech-8Library\bin\Debug\InfoTech-8Library.dll
+C:\Users\eleme\Downloads\task8_1-2\InfoTech-8Library\bin\Debug\InfoTech-8Library.pdb
+C:\Users\eleme\Downloads\task8_1-2\InfoTech-8Library\obj\Debug\InfoTech-8Library.csprojAssemblyReference.cache
+C:\Users\eleme\Downloads\task8_1-2\InfoTech-8Library\obj\Debug\InfoTech-8Library.csproj.CoreCompileInputs.cache
+C:\Users\eleme\Downloads\task8_1-2\InfoTech-8Library\obj\Debug\InfoTech-8Library.dll
+C:\Users\eleme\Downloads\task8_1-2\InfoTech-8Library\obj\Debug\InfoTech-8Library.pdb
+C:\Users\eleme\Downloads\task8_1-2\task8_1-2\InfoTech-8Library\bin\Debug\InfoTech-8Library.dll
+C:\Users\eleme\Downloads\task8_1-2\task8_1-2\InfoTech-8Library\bin\Debug\InfoTech-8Library.pdb
+C:\Users\eleme\Downloads\task8_1-2\task8_1-2\InfoTech-8Library\obj\Debug\InfoTech-8Library.csproj.CoreCompileInputs.cache
+C:\Users\eleme\Downloads\task8_1-2\task8_1-2\InfoTech-8Library\obj\Debug\InfoTech-8Library.dll
+C:\Users\eleme\Downloads\task8_1-2\task8_1-2\InfoTech-8Library\obj\Debug\InfoTech-8Library.pdb
